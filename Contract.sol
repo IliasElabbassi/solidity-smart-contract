@@ -14,7 +14,9 @@ contract #ContractName# {
 	}
 
 	// Events
-	event #eventName# () {}
+	event #eventName# () {
+		// instruction
+	}
 
 	/**
 		Functions
