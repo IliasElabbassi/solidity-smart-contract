@@ -18,7 +18,7 @@ contract #ContractName# {
 
 	/**
 		Functions
-		Within a function (standard -> view -> pure)
+		Order within a function (standard -> view -> pure)
 	*/
 
 	// fallback functions
