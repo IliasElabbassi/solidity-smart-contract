@@ -6,7 +6,12 @@ import "#path#";
 // Contract Class
 contract #ContractName# {
 	// Constant declaration
-	// Variable declaration
+	// Variable/state declaration
+	
+	// Struct
+	Struct #structName# {
+		// variables/state
+	}
 
 	//Constructor
 	constructor #ContractName# () {
