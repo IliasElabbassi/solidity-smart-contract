@@ -12,7 +12,13 @@ contract #ContractName# {
 	constructor #ContractName# () {
 		// instruction
 	}
-
+	
+	// Modifiers
+	modifier #modfierName# () {
+		// instruction
+		_;// will execute the function that this modifier is attached to here
+	}
+	
 	// Events
 	event #eventName# () {
 		// instruction
