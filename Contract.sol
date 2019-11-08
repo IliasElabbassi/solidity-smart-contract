@@ -5,13 +5,16 @@ import "#path#";
 
 // Contract Class
 contract #ContractName# {
-	// Constant declaration
-	// Variable/state declaration
+	// enum
+	enum #enumName# {//enumerations}
 	
 	// Struct
 	Struct #structName# {
 		// variables/state
 	}
+	
+	// Constant declaration
+	// Variable/state declaration
 
 	//Constructor
 	constructor #ContractName# () {
